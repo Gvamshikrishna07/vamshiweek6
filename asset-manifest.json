@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/vamshiweek6/static/css/main.d908e7b9.css",
+    "main.js": "/vamshiweek6/static/js/main.7642a71f.js",
+    "static/js/453.1b6cbde4.chunk.js": "/vamshiweek6/static/js/453.1b6cbde4.chunk.js",
+    "index.html": "/vamshiweek6/index.html",
+    "main.d908e7b9.css.map": "/vamshiweek6/static/css/main.d908e7b9.css.map",
+    "main.7642a71f.js.map": "/vamshiweek6/static/js/main.7642a71f.js.map",
+    "453.1b6cbde4.chunk.js.map": "/vamshiweek6/static/js/453.1b6cbde4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d908e7b9.css",
+    "static/js/main.7642a71f.js"
+  ]
+}
